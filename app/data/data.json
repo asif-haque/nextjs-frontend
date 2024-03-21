@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  },
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  },
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  },
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  },
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  },
+  {
+    "name": "Mr. Lorem",
+    "sector": 2,
+    "postedAgo": "2 min ago",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vitae, reiciendis sed adipisci quia consequuntur voluptas voluptate distinctio soluta necessitatibus?",
+    "like": "2k",
+    "views": "2k",
+    "comments": "2k"
+  }
+]
